@@ -3,7 +3,7 @@
 ## repo
 npm install --registry=https://registry.npm.taobao.org
 
-## git clone
+## npm install
 ```shell script
 $ cat ~/.gitconfig
 [oh-my-zsh]
